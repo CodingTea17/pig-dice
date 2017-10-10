@@ -1,0 +1,19 @@
+{
+  "name": "pig-dice",
+  "description": "specs:",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "homepage": "https://github.com/CodingTea17/pig-dice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "v4.0.0-beta",
+    "moment": "^2.19.0"
+  }
+}
